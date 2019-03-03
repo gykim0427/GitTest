@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	master가  처음 작성한내용. branch님들 이걸로 개발하세요.
-	
-	branch2가 처음 작성한내용.
+	branch2가 처음 생성한 파일.
 </body>
 </html>
